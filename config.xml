@@ -11,7 +11,7 @@
     <plugin name="cordova-plugin-whitelist" spec="1.3.4" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
-    <icon src="img/icon2.png" />
+    <icon src="img/icon1.png" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
     <allow-intent href="sms:*" />
